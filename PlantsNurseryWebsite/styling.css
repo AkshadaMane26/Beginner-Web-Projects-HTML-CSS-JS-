@@ -1,0 +1,54 @@
+#schema{
+    width:1500px;
+  
+    height: 1500px;
+
+    border: 1px solid black;
+
+    margin: 0 auto;
+}
+#header1{
+    height:150px;
+    width:1500px;
+    text-align: center;
+    background-color: rgb(223, 234, 223);
+    font-style: italic;
+    font-size: 100px;
+    float:inline-start;
+}
+
+#header2{
+    height:50px;
+    width:1500px;
+}
+#Home{
+   
+    width:50px;
+    float: left;
+    text-align: center;
+}
+#Plants{
+    width:50px;
+    float: left;
+    text-align: center;
+}
+#Soil{
+    width:50px;
+    float: left;
+    text-align: center;
+}
+#Seeds{
+    width:50px;
+    float: left;
+    text-align: center;
+}
+#About_us{
+    width:50px;
+    float: left;
+    text-align: center;
+}
+#Contact_us{
+    width:50px;
+    float: left;
+    text-align: center;
+}

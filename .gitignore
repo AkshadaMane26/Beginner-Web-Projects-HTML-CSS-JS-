@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+__MACOSX/
+
+# VSCode settings
+.vscode/
+
+# Node or Python (if used in future)
+node_modules/
+.env
+
+# Log files
+*.log
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+
